@@ -1,0 +1,16 @@
+{
+  "name": "code-test",
+  "version": "0.0.1",
+  "description": "this is the place to test code",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "faker": "^5.1.0",
+    "jwt-decode": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
